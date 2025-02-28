@@ -15,9 +15,6 @@ This project is an AI-driven job recommendation system that analyzes resumes and
 ### 🔍 Upload Resume
 ![Upload Resume](Snapshots/1.png)
 
-### 📄 Extracted Resume Data
-![Extracted Data](Snapshots/2.png)
-
 ### 🔥 Job Recommendations
 ![Job Recommendations](Snapshots/3.png)
 
