@@ -35,8 +35,8 @@ This project is an AI-driven job recommendation system that analyzes resumes and
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/mohithn2004/AI-Job-Recommender
-   cd AI-Job-Recommender
+   git clone https://github.com/SIMRAN118118/Job_Recommender.AI
+   cd Job_Recommender.AI
    ```
 
 2. **Install dependencies**  
@@ -56,13 +56,3 @@ This project is an AI-driven job recommendation system that analyzes resumes and
 3️⃣ Fetches **top job postings** from job portals 🔍  
 4️⃣ Uses **TF-IDF similarity** to recommend the best-matching jobs ✨  
 5️⃣ View job details & apply directly! 🚀  
-
-## 📬 Contact
-
-Have feedback or want to contribute?  
-📧 Email: [mohithn2004@gmail.com](mailto:mohithn2004@gmail.com)  
-🔗 Portfolio: [Mohith N](https://mohithnportfolio.netlify.app/)
-
----
-
-Made with ❤️ by **Mohith N** 🚀
